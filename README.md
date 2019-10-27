@@ -5,6 +5,7 @@
 ### Functionality: 
 
 - Uses async Fetch function to make API calls to Studio Ghibli's Official [API](https://ghibliapi.herokuapp.com/)
+- Movies are sorted by highest score based on retrieved Rottom Tomatoes score
 - Description contains a toggle "Read More" button based on a set word limit for each description 
 - Features check marks for users to track which films they've seen
 
