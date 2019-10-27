@@ -13,6 +13,6 @@
 
 - Add sign up/log in authentication to save user's checkmarks 
 - Connect to MongoDB to have the user checkmark data stored 
-- Add more API calls :) 
+ 
 
  
