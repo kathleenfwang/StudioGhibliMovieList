@@ -12,7 +12,7 @@
 ### Future additions: 
 
 - Add sign up/log in authentication to save user's checkmarks 
-- Connect to MongoDB to have the user checkmark data stored 
+- Connect to MongoDB to allow users to check off movies they've seen and have that data stored 
  
 
  
